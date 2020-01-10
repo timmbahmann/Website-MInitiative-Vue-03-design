@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 0,
+    "x": 12,
     "y": 16
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "nameIsFixed": true,
   "overrideValues": [
   ],
-  "resizingConstraint": 41,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

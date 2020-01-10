@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 143,
-    "x": 36,
+    "width": 155,
+    "x": 48,
     "y": 12
   },
   "groupLayout": {
@@ -44,7 +44,7 @@
   "maintainScrollPosition": false,
   "name": "Text",
   "nameIsFixed": true,
-  "resizingConstraint": 43,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

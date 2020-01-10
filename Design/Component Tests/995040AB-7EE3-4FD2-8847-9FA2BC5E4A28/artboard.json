@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 376,
-    "x": 263,
-    "y": 28
+    "x": 132,
+    "y": 1179
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,12 +56,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "816EABFE-4DB7-4670-8350-5BC30635E803"
+      "class": "symbolInstance",
+      "id": "E8C892A3-E447-4097-A945-7C5EDBFB54EC"
     },
     {
-      "class": "symbolInstance",
-      "id": "36E6FB53-9D3A-4555-A863-C6ADF178BC22"
+      "class": "group",
+      "id": "9FF3BDE8-8F74-4EB4-8C2B-59E22BBCC58D"
     }
   ],
   "layout": {
@@ -80,8 +80,8 @@
     "totalWidth": 352
   },
   "maintainScrollPosition": false,
-  "name": "iPhone 8",
-  "nameIsFixed": false,
+  "name": "iPhone 8 - SideNav",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,
@@ -144,7 +144,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      56
     ]
   }
 }
