@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1280,
+  "changeIdentifier": 1542,
   "clippingMaskMode": 0,
   "do_objectID": "A46375FF-8F14-4D81-8641-DAE4EA7F4473",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 84,
     "width": 600,
     "x": 611,
     "y": -1
@@ -77,6 +77,10 @@
     {
       "class": "group",
       "id": "B51BE379-59D0-49C9-B02D-C544596EAE3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A63D0E2-774E-4D43-8455-C69F9F55EE5E"
     }
   ],
   "layout": {
