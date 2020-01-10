@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 92,
+  "changeIdentifier": 171,
   "clippingMaskMode": 0,
   "do_objectID": "DB714E1D-5BDA-44B1-B028-6C31E302C0F6",
   "exportOptions": {
@@ -25,14 +25,14 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 56,
-    "width": 179,
+    "width": 203,
     "x": 1246,
     "y": 1
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -41,7 +41,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -52,6 +52,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "D7F90514-E2BE-4F86-BD3B-32E28A3157DF"
+    },
     {
       "class": "symbolInstance",
       "id": "6E1B8D5E-AC55-49D2-B2DE-1DE00A91B463"

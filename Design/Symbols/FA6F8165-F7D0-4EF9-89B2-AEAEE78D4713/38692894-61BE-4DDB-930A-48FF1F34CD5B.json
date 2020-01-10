@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38692894-61BE-4DDB-930A-48FF1F34CD5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 256,
+    "x": 0,
+    "y": 849
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Single List Item Copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7EA94A7F-2534-488B-BA07-8C7849B6B9ED_textStyle",
+      "value": "AC59EE86-E62D-4736-A4A2-B0E5B14781CA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7EA94A7F-2534-488B-BA07-8C7849B6B9ED_stringValue",
+      "value": "Kontakt"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AE6CF86E-5D95-4C5D-BA03-70CA9F43F231_symbolID",
+      "value": "3B0E0515-6108-4349-89B2-53B13E2E1881"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AE6CF86E-5D95-4C5D-BA03-70CA9F43F231/B09D7313-E643-430F-B8E8-5995D1F943F6_symbolID",
+      "value": "04076B77-1E19-448E-A50C-29AB45A20665"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B5B861AF-72F2-4E7D-BFA8-62D8241E838A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E3A8FA6-462E-45DA-AC83-5ABF608009C6",
+  "verticalSpacing": 0
+}
